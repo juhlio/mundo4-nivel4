@@ -1,0 +1,13 @@
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\Transporte.exe
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\Transporte.dll
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\Transporte.deps.json
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\Transporte.runtimeconfig.json
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\Transporte.pdb
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\visualStudio\Transporte\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

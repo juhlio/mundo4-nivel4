@@ -1,0 +1,44 @@
+﻿@page
+@model Transporte.Pages.Drivers.IndexModel
+@using Transporte.Pages.Drivers;
+
+<br />
+<h2>Lista de Motoristas</h2>
+<a class="btn btn-primary btn-sn" href="/Drivers/Create">Novo Motorista</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>CNH</th>
+            <th>Endereço</th>
+            <th>Contato</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListDrivers != null && Model.ListDrivers.Any())
+        {
+            @foreach (var item in Model.ListDrivers)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.CNH</td>
+                    <td>@item.Endereco</td>
+                    <td>@item.Contato</td>
+                    <td>
+                        <a class="btn btn-primary btn-sn" href="/Drivers/Edit?driverID=@item.Id">Editar</a>
+                        <a class="btn btn-danger btn-sn" href="/Drivers/Delete?Id=@item.Id">Excluir</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6">Nenhum motorista encontrado.</td>
+            </tr>
+        }
+    </tbody>
+</table>

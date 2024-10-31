@@ -1,0 +1,40 @@
+﻿@page
+@model Transporte.Pages.Orden.CreateModel
+@using Transporte.Pages.Orden;
+
+<h2>Nova Ordem</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="detalhesPedido">Detalhes do Pedido:</label>
+        <textarea class="form-control" id="detalhesPedido" name="detalhesPedido"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="dataEntrega">Data de Entrega:</label>
+        <input type="date" class="form-control" id="dataEntrega" name="dataEntrega">
+    </div>
+    <div class="form-group">
+        <label for="status">Status:</label>
+        <input type="text" class="form-control" id="status" name="status">
+    </div>
+    <div class="form-group">
+        <label for="clienteID">Cliente:</label>
+        <select class="form-control" id="clienteID" name="clienteID">
+            @foreach (var cliente in Model.ListClientes)
+            {
+                <option value="@cliente.ClientID">@cliente.Nome</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="driverID">Motorista:</label>
+        <select class="form-control" id="driverID" name="driverID">
+            @foreach (var driver in Model.ListDrivers)
+            {
+                <option value="@driver.DriverID">@driver.Nome</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a class="btn btn-secondary" href="/Orden/Index">Cancelar</a>
+</form>

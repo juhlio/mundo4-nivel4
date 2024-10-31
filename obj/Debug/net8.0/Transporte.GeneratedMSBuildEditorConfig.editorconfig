@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Transporte
+build_property.RootNamespace = Transporte
+build_property.ProjectDir = F:\visualStudio\transporte\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\visualStudio\transporte
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXENsaWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXENsaWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXENsaWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXENsaWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Drivers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXERyaXZlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Drivers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXERyaXZlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Drivers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXERyaXZlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Drivers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXERyaXZlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Orden/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXE9yZGVuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Orden/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXE9yZGVuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Orden/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXE9yZGVuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Orden/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXE9yZGVuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Drivers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Drivers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Drivers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Drivers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Orden/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Orden/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Orden/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Orden/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/visualStudio/Transporte/Mundo-4-Nivel-4/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXVuZG8tNC1OaXZlbC00XFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-bto6tm2l08
+
+[F:/visualStudio/Transporte/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q5v97h076q

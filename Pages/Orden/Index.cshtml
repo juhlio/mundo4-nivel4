@@ -1,0 +1,45 @@
+﻿@page
+@model Transporte.Pages.Orden.IndexModel
+@using Transporte.Pages.Orden;
+
+<br />
+<h2>Lista de Ordens</h2>
+<a class="btn btn-primary btn-sn" href="/Orden/Create">Nova Orden</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>IdCliente</th>
+            <th>IdDriver</th>
+            <th>Detalhes</th>
+            <th>Data</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListOrden != null && Model.ListOrden.Any())
+        {
+            @foreach (var item in Model.ListOrden)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.IdCliente</td>
+                    <td>@item.IdDriver</td>
+                    <td>@item.Detalhes</td>
+                    <td>@item.Data</td>
+                    <td>@item.Status</td>
+                    <td>
+                        <a class="btn btn-primary btn-sn" href="/Orden/Edit?OrderID=@item.Id">Editar</a>
+                        <a class="btn btn-danger btn-sn" href="/Orden/Delete?Id=@item.Id">Excluir</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6">Nenhum motorista encontrado.</td>
+            </tr>
+        }
+    </tbody>
+</table>

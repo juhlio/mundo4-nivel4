@@ -1,0 +1,44 @@
+﻿@page
+@model TransportadoraLTDA.Pages.Clientes.IndexModel
+
+<br />
+<h2>Lista de Clientes</h2>
+<a class="btn btn-primary btn-sn" href="/Clients/Create">Novo Cliente</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Empresa</th>
+            <th>Endereço</th>
+            <th>Contato</th>
+            <th>Ação</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListClients != null)
+        {
+            @foreach (var item in Model.ListClients)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Empresa</td>
+                    <td>@item.Endereco</td>
+                    <td>@item.Contato</td>
+                    <td>
+                        <a class="btn btn-primary btn-sn" href="/Clients/Edit?clientID=@item.Id">Editar</a>
+                        <a class="btn btn-danger btn-sn" href="/Clients/Delete?id=@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6">Nenhum cliente encontrado.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
